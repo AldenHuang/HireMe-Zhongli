@@ -1,0 +1,66 @@
+body {
+    font-family: 'Comforter', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif KR', serif;
+
+}
+
+body {
+    background: url(https://i.pinimg.com/originals/bb/9a/d8/bb9ad8b9750d1e03593f70f84410c748.png);
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 22px;
+}
+
+ul {
+    font-size: 22px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #ffb3b3;
+}
+
+a:visited {
+    color: #ffb3b3;
+}
+
+.Title {
+    color: #ffb3b3;
+}
+
+.info {
+    color: #ffd9b3;
+}
+
+.Title {
+    text-shadow: 4px 4px 3px #fce0c2;
+}
+
+.info {
+    text-shadow: 4px 4px 2px #c2fcdb;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    border-radius: 25px;
+    background: #dffcb6;
+    padding: 2px;
+    margin: 10px;
+    border: 6px solid #dffcb6;
+}
